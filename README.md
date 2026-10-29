@@ -91,7 +91,7 @@ I graduated with a BS in Software Engineering from the University of Management 
 | **BS in Software Engineering** | University of Management and Technology (UMT), Lahore, Pakistan | Oct 2022 – Jul 2026 | CGPA: 3.00 / 4.00 (German Grade Equivalent: **2.50 - Good**) |
 | **TOEFL iBT** | Educational Testing Service (ETS) | Oct 2026 | **100 / 120** (CEFR **C1 Advanced** Proficiency) |
 | **FSc Pre-Engineering** | Board of Intermediate and Secondary Education (BISE) Faisalabad, Pakistan | 2019 – 2021 | Grade: **A+** (80.45% – 885 / 1100) |
-| **Matriculation (SSC - Computer Science)** | Al-Usman Ideal High School, Shorkot Cantt, Punjab, Pakistan (BISE Faisalabad) | 2017 – 2019 | Grade: **A+** (86.00% – 946 / 1100) |
+| **Metric** | Board of Intermediate and Secondary Education (BISE) Faisalabad, Pakistan | 2017 – 2019 | Grade: **A+** (86.00% – 946 / 1100) |
 
 ---
 
