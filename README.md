@@ -12,75 +12,51 @@
 
 ### About Me
 
-I am a Software Engineer at **[Izrotech](https://izrotech.com)**, focusing on full-stack web development. I work with modern web technologies including TypeScript, Next.js, Fastify, and PostgreSQL.
+I am a Software Engineer at **[Izrotech](https://izrotech.com)**, focusing on full-stack web development. I work with modern web technologies including TypeScript, Next.js, and PostgreSQL to build practical tools for online sellers.
 
-I graduated with a BS in Software Engineering from the University of Management and Technology (UMT), Lahore, Pakistan, where my capstone project was a 3D vehicular simulation in Unity. I scored 100/120 (C1) on the TOEFL iBT and am preparing for advanced graduate studies (M.Sc. in Computer Science / Software Engineering).
+I graduated with a BS in Software Engineering from the University of Management and Technology (UMT), Lahore, Pakistan. I scored 100/120 (C1) on the TOEFL iBT and am preparing for advanced graduate studies (M.Sc. in Computer Science / Software Engineering).
 
 ---
 
-### Technical Tooling & Stack
+### Technical Skills & Tools
 
 <table>
   <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,cs,python,html,css" alt="Languages" />
-      <br>TypeScript (Strict), JavaScript (ESNext), C#, Python, SQL
-    </td>
+    <td width="24%"><b>Programming Languages</b></td>
+    <td>TypeScript, JavaScript, Python, SQL, C#</td>
   </tr>
   <tr>
-    <td width="22%"><b>Backend & Systems</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,fastify,postgres,supabase,redis,docker" alt="Backend" />
-      <br>Node.js, Fastify (OpenAPI + Zod), PostgreSQL 16, Supabase, Drizzle ORM (Row-Level Security), Redis / BullMQ, Docker
-    </td>
+    <td width="24%"><b>Web & Backend</b></td>
+    <td>React, Next.js, Node.js, Tailwind CSS, PostgreSQL, REST APIs</td>
   </tr>
   <tr>
-    <td width="22%"><b>Frontend & Web</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" alt="Frontend" />
-      <br>Next.js (App Router), React, Tailwind CSS, Responsive Design, Core Web Vitals
-    </td>
+    <td width="24%"><b>Developer Tools</b></td>
+    <td>Git, GitHub, VS Code, Vercel</td>
   </tr>
   <tr>
-    <td width="22%"><b>Simulation & AI</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=unity" alt="Simulation" />
-      <br>Unity 3D, Realistic Car Controller (RCC v4), Waypoint Navigation, Density-Aware Signal AI, Physics Simulation
-    </td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Testing & DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vitest,git,github,bash,vercel" alt="Testing and DevOps" />
-      <br>Vitest, Playwright (E2E), Agile Sprint Planning, Git, Linux/Bash, Vercel
-    </td>
+    <td width="24%"><b>Academic / Simulation</b></td>
+    <td>Unity 3D, C# (BS Capstone Project)</td>
   </tr>
 </table>
 
 ---
 
-### Featured Systems & Projects
+### Featured Projects
 
-#### Next-Gen Car Simulation Game with Traffic & Signal AI Systems (BS Capstone)
-*Unity 3D, C#, Realistic Car Controller (RCC v4), Android SDK*
-- Built a 3D vehicular simulation featuring 4 discrete gameplay disciplines: Simulation, Drift, Race, and Parking.
-- Implemented vehicle collision dynamics, obstacle raycasting, and circuit waypoint paths for autonomous traffic NPCs.
-- Developed an adaptive signal timing controller that calculates real-time road queue density to modulate green phase durations.
-- Acted as QA Lead across 4 Agile sprints, authoring 27 formal test specifications (TID01–TID27), maintaining requirements traceability matrices, and achieving 92.67% verified system accuracy.
+#### 1. Global eBay Fee & Profit Calculator ([ebayfeescalc.com](https://ebayfeescalc.com))
+*Built with Next.js, React, Tailwind CSS, and PostgreSQL*
+- Developed an online calculator to help international sellers calculate category-specific fees and net profit margins.
+- Built a responsive user interface with automated calculation logic and support for multiple regional marketplaces.
 
-#### DS Repricer — Multi-Marketplace E-Commerce Automation Platform
-*TypeScript, Next.js, Fastify, PostgreSQL 16, Drizzle ORM, BullMQ, Redis, Docker*
-- Architected a multi-tenant supplier-to-eBay automation and repricing platform operating across AU, US, UK, DE, and CA.
-- Enforced strict multi-tenant data segregation using PostgreSQL Forced Row-Level Security (RLS) across 20+ database tables.
-- Implemented automated 2-hour price/stock monitors, dynamic category-aware fee models, regional delivery verification, and defense-in-depth security (mandatory TOTP MFA, strict CSP, audit logging).
-- Engineered with high reliability, backed by over 4,500+ unit, integration, and Playwright E2E tests.
+#### 2. DS Repricer ([dsrepricer.com](https://dsrepricer.com))
+*Built with TypeScript, Next.js, and PostgreSQL*
+- Developed a web application to monitor supplier stock and track product price changes for e-commerce sellers.
+- Implemented data storage and API endpoints to manage inventory updates efficiently.
 
-#### Global eBay Fee & Profit Calculator ([ebayfeescalc.com](https://ebayfeescalc.com))
-*Next.js (App Router), TypeScript (Strict), Tailwind CSS, Supabase / PostgreSQL, Drizzle ORM, Vercel*
-- Real-time calculation engine computing category-specific Final Value Fees, seller standard surcharges, net profit margins, and break-even selling prices across 19 global marketplaces.
-- Sub-second Core Web Vitals, Schema.org JSON-LD structured data, and `llms.txt` endpoints for AI discovery.
-- Comprehensive automated verification with 1,055+ Vitest unit tests and Playwright E2E suites.
+#### 3. 3D Vehicular Traffic Simulation (BS Capstone Project)
+*Built with Unity 3D and C#*
+- Designed and built a 3D vehicular driving and traffic simulation as a final year capstone project at UMT Lahore.
+- Implemented vehicle physics, waypoint path navigation, and traffic signal timing logic.
 
 ---
 
@@ -95,7 +71,7 @@ I graduated with a BS in Software Engineering from the University of Management 
 
 ---
 
-### GitHub Activity & Real-Time Telemetry
+### GitHub Activity
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mateen-Zulfiqar&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=98c379&bg_color=1e1e2e" alt="GitHub Stats" />
