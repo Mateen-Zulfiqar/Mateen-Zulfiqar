@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Mateen%20Zulfiqar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%40%20Izrotech%20%7C%20BS%20Software%20Engineering&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Mateen%20Zulfiqar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20Izrotech%20%7C%20BS%20Software%20Engineering&descAlignY=62&descAlign=50" width="100%" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mateen-zulfiqar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://izrotech.com"><img src="https://img.shields.io/badge/Website-izrotech.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:support@izrotech.com"><img src="https://img.shields.io/badge/Email-support%40izrotech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:mateenzulfi7364@gmail.com"><img src="https://img.shields.io/badge/Email-mateenzulfi7364%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a Full-Stack Software Engineer and Founder at **[Izrotech](https://izrotech.com)**, specializing in distributed systems, modern web architecture, and 3D simulation engineering. I design and operate production-grade SaaS platforms utilizing strict TypeScript, Next.js, Fastify, and PostgreSQL with fine-grained multi-tenant data isolation.
+I am a Full-Stack Software Engineer at **[Izrotech](https://izrotech.com)**, specializing in distributed systems, modern web architecture, and 3D simulation engineering. I design and operate production-grade SaaS platforms utilizing strict TypeScript, Next.js, Fastify, and PostgreSQL with fine-grained multi-tenant data isolation.
 
 I graduated with a BS in Software Engineering from the University of Management and Technology (UMT), Lahore, Pakistan, where I served as QA Lead and core gameplay engineer for an AI-driven 3D vehicular simulation capstone. I scored 100/120 (C1) on the TOEFL iBT and am preparing for advanced graduate studies (M.Sc. in Computer Science / Software Engineering) alongside commercial engineering work.
 
@@ -109,5 +109,5 @@ I graduated with a BS in Software Engineering from the University of Management 
 ---
 
 <div align="center">
-  Reach out via <a href="https://www.linkedin.com/in/mateen-zulfiqar/">LinkedIn</a> or email <a href="mailto:support@izrotech.com">support@izrotech.com</a>.
+  Reach out via <a href="https://www.linkedin.com/in/mateen-zulfiqar/">LinkedIn</a> or email <a href="mailto:mateenzulfi7364@gmail.com">mateenzulfi7364@gmail.com</a>.
 </div>
