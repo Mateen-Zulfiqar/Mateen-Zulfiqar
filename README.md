@@ -4,7 +4,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/mateen-zulfiqar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://izrotech.com"><img src="https://img.shields.io/badge/Website-izrotech.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:contact@izrotech.com"><img src="https://img.shields.io/badge/Email-contact%40izrotech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:support@izrotech.com"><img src="https://img.shields.io/badge/Email-support%40izrotech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -14,7 +14,7 @@
 
 I am a Full-Stack Software Engineer and Founder at **[Izrotech](https://izrotech.com)**, specializing in distributed systems, modern web architecture, and 3D simulation engineering. I design and operate production-grade SaaS platforms utilizing strict TypeScript, Next.js, Fastify, and PostgreSQL with fine-grained multi-tenant data isolation.
 
-I graduated with a BS in Software Engineering from the University of Management and Technology (UMT), where I served as QA Lead and core gameplay engineer for an AI-driven 3D vehicular simulation capstone. I scored 100/120 (C1) on the TOEFL iBT and am preparing for advanced graduate studies (M.Sc. in Computer Science / Software Engineering) alongside commercial engineering work.
+I graduated with a BS in Software Engineering from the University of Management and Technology (UMT), Lahore, Pakistan, where I served as QA Lead and core gameplay engineer for an AI-driven 3D vehicular simulation capstone. I scored 100/120 (C1) on the TOEFL iBT and am preparing for advanced graduate studies (M.Sc. in Computer Science / Software Engineering) alongside commercial engineering work.
 
 ---
 
@@ -88,10 +88,10 @@ I graduated with a BS in Software Engineering from the University of Management 
 
 | Degree / Credential | Institution / Authority | Period / Date | Evaluation / Details |
 | :--- | :--- | :--- | :--- |
-| **BS in Software Engineering** | University of Management and Technology (UMT), Lahore | Oct 2022 – Jul 2026 | CGPA: 3.00 / 4.00 (German Grade Equivalent: **2.50 - Good**) |
+| **BS in Software Engineering** | University of Management and Technology (UMT), Lahore, Pakistan | Oct 2022 – Jul 2026 | CGPA: 3.00 / 4.00 (German Grade Equivalent: **2.50 - Good**) |
 | **TOEFL iBT** | Educational Testing Service (ETS) | Oct 2026 | **100 / 120** (CEFR **C1 Advanced** Proficiency) |
-| **FSc Pre-Engineering** | BISE Faisalabad | 2019 – 2021 | Grade: **A+** (80.45% – 885 / 1100) |
-| **Matriculation (SSC - Computer Science)** | BISE Faisalabad (Al-Usman Ideal High School) | 2017 – 2019 | Grade: **A+** (86.00% – 946 / 1100) |
+| **FSc Pre-Engineering** | Board of Intermediate and Secondary Education (BISE) Faisalabad, Pakistan | 2019 – 2021 | Grade: **A+** (80.45% – 885 / 1100) |
+| **Matriculation (SSC - Computer Science)** | Al-Usman Ideal High School, Shorkot Cantt, Punjab, Pakistan (BISE Faisalabad) | 2017 – 2019 | Grade: **A+** (86.00% – 946 / 1100) |
 
 ---
 
@@ -109,5 +109,5 @@ I graduated with a BS in Software Engineering from the University of Management 
 ---
 
 <div align="center">
-  Reach out via <a href="https://www.linkedin.com/in/mateen-zulfiqar/">LinkedIn</a> or visit <a href="https://izrotech.com">Izrotech</a>.
+  Reach out via <a href="https://www.linkedin.com/in/mateen-zulfiqar/">LinkedIn</a> or email <a href="mailto:support@izrotech.com">support@izrotech.com</a>.
 </div>
