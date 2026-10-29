@@ -3,7 +3,6 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mateen-zulfiqar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://izrotech.com"><img src="https://img.shields.io/badge/Website-izrotech.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:mateenzulfi7364@gmail.com"><img src="https://img.shields.io/badge/Email-mateenzulfi7364%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
