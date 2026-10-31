@@ -47,10 +47,10 @@ I graduated with a BS in Software Engineering from the University of Management 
 - Developed a high-performance fee calculation engine covering 19 international marketplaces with category-specific tiering and break-even analysis.
 - Engineered for sub-second Core Web Vitals, canonical metadata, and backed by 1,050+ automated Vitest tests.
 
-#### 2. DS Repricer ([dsrepricer.com](https://dsrepricer.com))
+#### 2. DS Repricer — Multi-Marketplace E-Commerce Automation Platform (In Development)
 *Built with TypeScript, Fastify, Next.js, PostgreSQL 16, and Redis / BullMQ*
-- Architected an automated repricing, supplier stock synchronization, and regional deliverability verification platform for international eBay sellers.
-- Enforced multi-tenant data isolation via PostgreSQL Forced Row-Level Security (RLS) across 20+ tables and comprehensive test coverage (4,500+ tests).
+- Currently architecting and building a multi-tenant supplier-to-eBay automation and repricing platform operating across AU, US, UK, DE, and CA.
+- Enforcing multi-tenant data isolation via PostgreSQL Forced Row-Level Security (RLS) across 20+ tables and comprehensive test coverage (4,500+ tests).
 
 #### 3. 3D Vehicular Traffic Simulation & Signal AI (BS Capstone Project)
 *Built with Unity 3D, C#, and RCC v4*
