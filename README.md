@@ -103,4 +103,4 @@ I graduated with a BS in Software Engineering from the University of Management 
 ### Contact & Links
 
 - **LinkedIn:** [linkedin.com/in/mateen-zulfiqar](https://www.linkedin.com/in/mateen-zulfiqar/)
-- **Email:** [support@izrotech.com](mailto:support@izrotech.com)
+- **Email:** [mateenzulfi7364@gmail.com](mailto:support@mateenzulfi7364@gmail.com)
