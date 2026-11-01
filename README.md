@@ -3,7 +3,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mateen-zulfiqar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:mateenzulfi7364@gmail.com"><img src="https://img.shields.io/badge/Email-mateenzulfi7364%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:support@izrotech.com"><img src="https://img.shields.io/badge/Email-support%40izrotech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -22,8 +22,8 @@ I graduated with a BS in Software Engineering from the University of Management 
 | Role | Organization | Location | Period | Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **Full-Stack Software Engineer** | [Izrotech](https://izrotech.com) | Lahore, Pakistan (Remote) | Jul 2026 – Present | Scalable SaaS architectures, Next.js, Fastify, PostgreSQL RLS, BullMQ/Redis |
-| **Website & Operations Assistant** | Advanced Technology Resources, Inc. (Rancho Computers) | Rancho Cucamonga, CA, USA (Remote) | Mar 2025 – Jun 2026 | Web operations, digital platform maintenance, technical coordination |
-| **Web Developer Intern** | Creamerz Soft | Lahore, Pakistan | Sep 2024 – Dec 2024 | Responsive front-end layout design, web development, QA testing |
+| **Website & Operations Assistant** | [Rancho Computers](https://rancho-computers.com) (Advanced Technology Resources, Inc.) | Rancho Cucamonga, CA, USA (Remote) | Mar 2025 – Jun 2026 | Web operations, digital platform maintenance, technical coordination |
+| **Web Developer Intern** | [Creamerz Soft](https://creamerz.com) | Lahore, Pakistan | Sep 2024 – Dec 2024 | Responsive front-end layout design, web development, QA testing |
 
 ---
 
@@ -117,4 +117,4 @@ I graduated with a BS in Software Engineering from the University of Management 
 ### Contact & Links
 
 - **LinkedIn:** [linkedin.com/in/mateen-zulfiqar](https://www.linkedin.com/in/mateen-zulfiqar/)
-- **Email:** [mateenzulfi7364@gmail.com](mailto:support@mateenzulfi7364@gmail.com)
+- **Email:** [support@izrotech.com](mailto:support@izrotech.com)
