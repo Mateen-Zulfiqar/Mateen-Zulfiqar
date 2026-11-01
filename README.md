@@ -17,6 +17,16 @@ I graduated with a BS in Software Engineering from the University of Management 
 
 ---
 
+### Professional Experience
+
+| Role | Organization | Location | Period | Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **Full-Stack Software Engineer** | [Izrotech](https://izrotech.com) | Lahore, Pakistan (Remote) | Jul 2026 – Present | Scalable SaaS architectures, Next.js, Fastify, PostgreSQL RLS, BullMQ/Redis |
+| **Website & Operations Assistant** | Advanced Technology Resources, Inc. (Rancho Computers) | Rancho Cucamonga, CA, USA (Remote) | Mar 2025 – Jun 2026 | Web operations, digital platform maintenance, technical coordination |
+| **Web Developer Intern** | Creamerz Soft | Lahore, Pakistan | Sep 2024 – Dec 2024 | Responsive front-end layout design, web development, QA testing |
+
+---
+
 ### Technical Skills & Tools
 
 <table>
