@@ -31,20 +31,24 @@ I graduated with a BS in Software Engineering from the University of Management 
 
 <table>
   <tr>
-    <td width="24%"><b>Programming Languages</b></td>
-    <td>TypeScript (Strict), JavaScript, Python, SQL, C#</td>
+    <td width="24%"><b>Languages</b></td>
+    <td>TypeScript (Strict), JavaScript, Python, C++, SQL, HTML5, CSS3</td>
   </tr>
   <tr>
-    <td width="24%"><b>Web & Backend</b></td>
-    <td>Next.js (App Router), React, Fastify, Node.js, Tailwind CSS, PostgreSQL 16 (Row-Level Security), Redis / BullMQ, REST APIs</td>
+    <td width="24%"><b>Frameworks & Web</b></td>
+    <td>Next.js (App Router), React.js, Node.js, Fastify, Express.js, Tailwind CSS, RESTful APIs</td>
   </tr>
   <tr>
-    <td width="24%"><b>Testing & DevOps</b></td>
-    <td>Vitest, Playwright (E2E), Git, GitHub, Linux, Vercel, Docker</td>
+    <td width="24%"><b>Databases & ORMs</b></td>
+    <td>PostgreSQL 16, Supabase, Drizzle ORM, Prisma ORM, MongoDB, SQL Server</td>
   </tr>
   <tr>
     <td width="24%"><b>Simulation & AI</b></td>
-    <td>Unity 3D, C#, Realistic Car Controller (RCC v4), AI Traffic & Signal Systems</td>
+    <td>Unity 3D, Realistic Car Controller (RCC v4), Waypoint Navigation, Density-Aware Signal AI, Physics Simulation</td>
+  </tr>
+  <tr>
+    <td width="24%"><b>DevOps, Tools & QA</b></td>
+    <td>Vitest, Playwright (E2E), Docker, Postman, Git, GitHub, Linux/Bash, Vercel, VS Code</td>
   </tr>
 </table>
 
